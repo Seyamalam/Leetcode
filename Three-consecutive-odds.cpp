@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/three-consecutive-odds/submissions/
 class Solution {
 public:
     bool threeConsecutiveOdds(vector<int>& arr) {

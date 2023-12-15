@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/middle-of-the-linked-list/submissions/
 class Solution {
 public:
     int nodesCounter(ListNode* head)

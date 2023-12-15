@@ -1,4 +1,3 @@
-// https://leetcode.com/explore/featured/card/fun-with-arrays/527/searching-for-items-in-an-array/3250/
 class Solution {
 public:
     

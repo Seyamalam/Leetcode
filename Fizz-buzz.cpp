@@ -1,4 +1,3 @@
-// https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/
 class Solution {
 public:
     vector<string> fizzBuzz(int n) {

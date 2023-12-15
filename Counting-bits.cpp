@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/counting-bits/submissions/
 class Solution {
 public:
     

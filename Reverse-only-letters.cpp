@@ -1,4 +1,3 @@
-//  https://leetcode.com/problems/reverse-only-letters/submissions/
 class Solution {
 public:
     bool isLetter(char x)

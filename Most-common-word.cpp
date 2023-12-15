@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/most-common-word/submissions/
 class Solution {
 public:
     bool isBanned(vector<string>& banned, string word)

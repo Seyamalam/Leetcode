@@ -1,4 +1,3 @@
-//  https://leetcode.com/problems/linked-list-cycle/submissions/
 class Solution {
 public:
     bool hasCycle(ListNode *head) {

@@ -1,4 +1,3 @@
-//    https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/
 class Solution {
 public:
     vector<int> findDuplicates(vector<int>& nums) {

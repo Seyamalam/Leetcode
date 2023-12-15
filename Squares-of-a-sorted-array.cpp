@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/squares-of-a-sorted-array/submissions/
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& A) {

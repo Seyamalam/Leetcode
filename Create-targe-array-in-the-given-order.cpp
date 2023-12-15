@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/create-target-array-in-the-given-order
 class Solution {
 public:
     vector<int> createTargetArray(vector<int>& nums, vector<int>& index) {

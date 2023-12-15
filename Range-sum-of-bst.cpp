@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/range-sum-of-bst/submissions/
 class Solution {
 public:
     

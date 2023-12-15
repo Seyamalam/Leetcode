@@ -1,4 +1,3 @@
-// https://leetcode.com/explore/featured/card/fun-with-arrays/511/in-place-operations/3260/
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& A) {

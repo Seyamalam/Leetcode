@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/submissions/
 class Solution {
 public:
     bool isMajorityElement(vector<int>& nums, int target) {

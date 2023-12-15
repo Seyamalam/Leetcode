@@ -1,5 +1,3 @@
-// Find Lowest Common Ancestor in a BST
-// https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 
 class Solution {
 public:

@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/count-number-of-teams/submissions/
 class Solution {
 public:
     int numTeams(vector<int>& rating) {

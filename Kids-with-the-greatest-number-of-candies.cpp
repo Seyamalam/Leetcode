@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/
-
 class Solution {
 public:
     vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {

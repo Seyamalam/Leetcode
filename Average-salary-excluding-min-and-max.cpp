@@ -1,4 +1,3 @@
-//    https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/submissions/
 class Solution {
 public:
     double average(vector<int>& salary) {

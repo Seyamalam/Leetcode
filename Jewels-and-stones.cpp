@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/jewels-and-stones/submissions/
 class Solution {
 public:
     int numJewelsInStones(string J, string S) {

@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/defanging-an-ip-address/submissions/
 class Solution {
 public:
     string defangIPaddr(string address) {

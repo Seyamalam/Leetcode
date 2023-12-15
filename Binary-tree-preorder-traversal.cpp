@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/
 class Solution {
 public:
     vector<int>s; 

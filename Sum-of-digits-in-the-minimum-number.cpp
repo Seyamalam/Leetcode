@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/submissions/
 class Solution {
 public:
     int sumOfDigits(vector<int>& A) {

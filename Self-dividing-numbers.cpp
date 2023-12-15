@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/self-dividing-numbers/submissions/
 class Solution {
 public:
     vector<int> selfDividingNumbers(int left, int right) {

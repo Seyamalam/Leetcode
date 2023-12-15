@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/submissions/
 class Solution {
 public:
     vector<int> finalPrices(vector<int>& prices) {

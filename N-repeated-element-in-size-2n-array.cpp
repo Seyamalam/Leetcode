@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/
 class Solution {
 public:
     int repeatedNTimes(vector<int>& A) {

@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/largest-unique-number/submissions
 class Solution {
 public:
     int largestUniqueNumber(vector<int>& A) {

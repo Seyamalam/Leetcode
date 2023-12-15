@@ -1,5 +1,3 @@
-//https://leetcode.com/problems/valid-anagram/submissions/
-/* Having two strings, checkk if s2 is the anagram of s1 */
 class Solution {
 public:
     bool isAnagram(string s, string t) {

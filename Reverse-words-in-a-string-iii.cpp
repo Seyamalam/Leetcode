@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/
 class Solution {
 public:
     string reverseWords(string s) {

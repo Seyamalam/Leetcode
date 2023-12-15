@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/power-of-two/submissions/
 class Solution {
 public:
     bool isPowerOfTwo(int n) {

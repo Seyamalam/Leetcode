@@ -1,4 +1,3 @@
-//   https://leetcode.com/problems/detect-capital/submissions/
 class Solution {
 public:
     bool are_all_lower_case(string word, int len)

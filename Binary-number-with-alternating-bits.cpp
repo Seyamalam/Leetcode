@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/binary-number-with-alternating-bits/submissions/
 class Solution {
 public:
     bool hasAlternatingBits(int n) {

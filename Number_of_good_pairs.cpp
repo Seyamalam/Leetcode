@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/number-of-good-pairs/submissions/
 class Solution {
 public:
     int numIdenticalPairs(vector<int>& nums) {

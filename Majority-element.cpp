@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/majority-element/submissions/
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {

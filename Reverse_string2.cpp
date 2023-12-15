@@ -1,4 +1,3 @@
-// https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/
 class Solution {
 public:
     void reverseString(vector<char>& s) {

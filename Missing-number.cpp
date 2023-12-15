@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/missing-number/submissions/
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {

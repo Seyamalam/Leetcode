@@ -1,4 +1,3 @@
-// https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/
 class Solution {
 public:
     void duplicateZeros(vector<int>& arr) {

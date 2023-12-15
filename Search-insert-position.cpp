@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/search-insert-position/submissions/
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {

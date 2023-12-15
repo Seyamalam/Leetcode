@@ -1,9 +1,3 @@
-//  https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/834/
-/*
-    This can be solved in O(N^2 time), or in O(N) time using an unordered_map, or in O(N), 
-    if the array would be sorted; 
-*/
-
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {

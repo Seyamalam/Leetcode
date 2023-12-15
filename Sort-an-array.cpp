@@ -1,4 +1,3 @@
-//https://leetcode.com/problems/sort-an-array/submissions/
 class Solution {
 public:
     int partition(vector<int> &nums, int start, int end)

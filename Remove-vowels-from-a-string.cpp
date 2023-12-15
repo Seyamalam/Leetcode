@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/remove-vowels-from-a-string/submissions/
 class Solution {
 public:
     bool isVowel(char x)

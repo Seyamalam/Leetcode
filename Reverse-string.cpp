@@ -1,7 +1,3 @@
-// https://leetcode.com/problems/reverse-string/submissions/
-/*
-    Reverse string without use extra spacel
-*/
 class Solution {
 public:
     void reverseString(vector<char>& s) {

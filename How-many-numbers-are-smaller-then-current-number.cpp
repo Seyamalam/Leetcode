@@ -1,8 +1,6 @@
-// https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
-        // Create solution vector
         vector<int>solution;
         int counter, current_number; 
         for(int i=0; i< nums.size(); i++)

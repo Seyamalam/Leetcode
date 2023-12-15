@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/submissions/
 class Solution {
 public:
     int findSpecialInteger(vector<int>& arr) {
